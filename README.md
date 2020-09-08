@@ -1,5 +1,3 @@
-<img src="img/octocat .jpg" width="40%">
-
 ### 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 ▪ 3 years experiences in front-end, back-end and design web <br/>
 ▪ Spearhead building new official website twice in different companies <br/>
