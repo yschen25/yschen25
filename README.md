@@ -24,5 +24,5 @@ Others <br/>
 ▪ Git, PhpStorm, Sublime, Photoshop, Illustrator, SonarQube, Docker <br/>
 ▪ Web Design, UI/UX Design, Agile, SEO 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=yschen25&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschen25&hide=javascript,html&theme=gruvbox)
+![github stats](https://github-readme-stats.vercel.app/api?username=yschen25&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschen25&hide=html&theme=tokyonight)
