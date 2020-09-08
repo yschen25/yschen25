@@ -1,3 +1,6 @@
+![github stats](https://github-readme-stats.vercel.app/api?username=yschen25&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschen25&hide=html&theme=gruvbox)
+
 ## 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 ➤ 3 years experiences in front-end, back-end and design web <br/>
 ➤ Spearhead building new official website twice in different companies <br/>
@@ -18,13 +21,15 @@
 ➤ Web Design, UI/UX Design, Agile, SEO 
 
 ## 𝗪𝗘𝗕𝗦𝗜𝗧𝗘
-▪ Resume online
-http://www.yschen25.com/
+### Resume online
+
+<a href="http://www.yschen25.com/" target="_blank">
+<img src="https://github.com/yschen25/Resume/blob/master/img/Resume_01.gif">
+</a>
 
 ### Interactive Resume online
 <a href="http://www.yschen25.com/portfolio/interactiveResume/" target="_blank">
 <img src="https://github.com/yschen25/Interactive_Resume/blob/master/Interactive_Resume_02.gif">
 </a>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=yschen25&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschen25&hide=html&theme=gruvbox)
+
