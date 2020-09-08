@@ -9,8 +9,10 @@
 ▪ Resume online
 http://www.yschen25.com/
 
-▪ Interactive Resume online
-http://www.yschen25.com/portfolio/interactiveResume/
+##### Interactive Resume online
+<a href="http://www.yschen25.com/portfolio/interactiveResume/" target="_blank">
+<img src="https://github.com/yschen25/Interactive_Resume/blob/master/Interactive_Resume_02.gif">
+</a>
 
 ### 𝗦𝗞𝗜𝗟𝗟𝗦
 Front-End <br/>
