@@ -10,7 +10,7 @@
 
 ## ✏ 𝗦𝗞𝗜𝗟𝗟𝗦
 **Front-End** <br/>
-➤ React.js, Redux, Axios, Hook, JavaScript, ES6, Babel, ESlint, Jest, Enyzme, react-testing-library <br/>
+➤ React.js, Redux, Axios, Hook, JavaScript, ES6, Babel, ESlint, Jest, Enzme, react-testing-library <br/>
 ➤ Styled Component, jQuery, HTML, CSS, Flexbox, RWD, SCSS, SASS, Bootstrap, Webpack, NPM, SPA <br/>
 
 **Back-End** <br/>
