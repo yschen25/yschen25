@@ -20,7 +20,7 @@
 ➤ Git, PhpStorm, Sublime, Photoshop, Illustrator, SonarQube, Docker <br/>
 ➤ Web Design, UI/UX Design, Agile, SEO 
 
-## 🎨 𝗪𝗘𝗕𝗦𝗜𝗧𝗘S
+## 🎨 𝗪𝗘𝗕𝗦𝗜𝗧𝗘𝗦
 ### Resume online
 
 <a href="http://www.yschen25.com/" target="_blank">
