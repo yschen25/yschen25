@@ -38,3 +38,8 @@
 • [Chrome SameSite Cookie Policy 造成的跨站登出問題 :: 案例和解決方式](https://yschen25.blogspot.com/2020/08/chrome-80-samesite.html) <br/>
 • [英國求職篇 :: 工程師的履歷 & 網站履歷 :: Resume, web Resume, gitHub, LinkedIn 那些走過的路 ](https://yschen25.blogspot.com/2020/08/blog-post.html) <br/>
 • [英國求職篇 :: 英文我知道聽讀寫，不知道怎麼說](https://yschen25.blogspot.com/2020/07/blog-post.html)
+
+## ✉ CONTACT ME
+
+• yschen25@gmail.com
+• https://www.linkedin.com/in/yschen25
