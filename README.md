@@ -1,5 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=yschen25&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschen25&hide=html&theme=gruvbox)
+
 
 ## 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 ➤ 3 years experiences in front-end, back-end and design web <br/>
