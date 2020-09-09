@@ -32,4 +32,7 @@
 <img src="https://github.com/yschen25/Interactive_Resume/blob/master/Interactive_Resume_02.gif">
 </a>
 
-
+## BLOG POSTS
+• [Chrome SameSite Cookie Policy Causes Problem :: Logout When Direct To External Website Then Back Own Site ](https://yschen25.blogspot.com/2020/09/chrome-samesite-cookie-policy-causes.html) <br/>
+• [Chrome SameSite Cookie Policy 造成的跨站登出問題 :: 案例和解決方式](https://yschen25.blogspot.com/2020/08/chrome-80-samesite.html)
+• [英國求職篇 :: 英文我知道聽讀寫，不知道怎麼說](https://yschen25.blogspot.com/2020/07/blog-post.html)
