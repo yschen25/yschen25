@@ -41,5 +41,5 @@
 
 ## ✉ CONTACT ME
 
-• yschen25@gmail.com
+• yschen25@gmail.com <br/>
 • https://www.linkedin.com/in/yschen25
