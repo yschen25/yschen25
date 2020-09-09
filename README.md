@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-**...Welcome to view my repositors to find out more...**
+**...Welcome to view [my repositories](https://github.com/yschen25?tab=repositories) to find out more...**
 
 ## 📚 BLOG POSTS
 • [轉職前端工程師 :: 這裡推薦你豐富的學習資源、書籍與素材!](https://yschen25.blogspot.com/2019/07/blog-post.html) <br/>
