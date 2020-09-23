@@ -42,14 +42,14 @@
 
 **...Welcome to view [my repositories](https://github.com/yschen25?tab=repositories) to find out more...**
 
-## 📚 BLOG POSTS
+## 📚 𝗕𝗟𝗢𝗚 𝗣𝗢𝗦𝗧𝗦
 • [轉職前端工程師 :: 這裡推薦你豐富的學習資源、書籍與素材!](https://yschen25.blogspot.com/2019/07/blog-post.html) <br/>
 • [Chrome SameSite Cookie Policy Causes Problem :: Logout When Direct To External Website Then Back Own Site ](https://yschen25.blogspot.com/2020/09/chrome-samesite-cookie-policy-causes.html) <br/>
 • [Chrome SameSite Cookie Policy 造成的跨站登出問題 :: 案例和解決方式](https://yschen25.blogspot.com/2020/08/chrome-80-samesite.html) <br/>
 • [英國求職篇 :: 工程師的履歷 & 網站履歷 :: Resume, web Resume, gitHub, LinkedIn 那些走過的路](https://yschen25.blogspot.com/2020/08/blog-post.html) <br/>
 • [英國求職篇 :: 英文我知道聽讀寫，不知道怎麼說](https://yschen25.blogspot.com/2020/07/blog-post.html)
 
-## ✉ CONTACT ME
+## ✉ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘
 
 • yschen25@gmail.com <br/>
 • https://www.linkedin.com/in/yschen25
