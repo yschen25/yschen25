@@ -10,7 +10,7 @@
 
 ## ✏ 𝗦𝗞𝗜𝗟𝗟𝗦
 **Front-End** <br/>
-➤ React.js, Redux, Axios, Hook, JavaScript, ES6, Babel, ESlint, Jest, Enzyme, react-testing-library <br/>
+➤ React.js, Redux, Axios, Hook, JavaScript, ES6, ES7, Babel, ESlint, Jest, Enzyme, react-testing-library <br/>
 ➤ Styled Component, jQuery, HTML, CSS, Flexbox, RWD, SCSS, SASS, Bootstrap, Webpack, NPM, SPA <br/>
 
 **Back-End** <br/>
@@ -18,7 +18,7 @@
 
 **Others** <br/>
 ➤ Git, PhpStorm, Sublime, Photoshop, Illustrator, SonarQube, Docker <br/>
-➤ Web Design, UI/UX Design, Agile, SEO 
+➤ Web Design, UI/UX Design, Agile 
 
 ## 🎨 𝗪𝗘𝗕𝗦𝗜𝗧𝗘𝗦
 ### Resume online
