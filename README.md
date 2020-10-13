@@ -5,7 +5,7 @@
 ➤ 3 years experiences in front-end, back-end and design web <br/>
 ➤ Spearhead building new official website twice in different companies <br/>
 ➤ Volunteer to held technical training programs and write documents <br/>
-➤ Excellent communication skills and logic by being freelancer and business trip experiences <br/>
+➤ Excellent communication skills and logic by being a freelancer and business trip experiences <br/>
 ➤ Received best website design 2nd and RWD website 2nd reward in class <br/>
 
 ## ✏ 𝗦𝗞𝗜𝗟𝗟𝗦
