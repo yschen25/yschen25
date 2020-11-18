@@ -52,4 +52,4 @@
 ## ✉ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘
 
 • yschen25@gmail.com <br/>
-• https://www.linkedin.com/in/yschen25
+• [LinkedIn](https://www.linkedin.com/in/yschen25)
