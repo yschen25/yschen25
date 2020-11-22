@@ -2,15 +2,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschen25&hide=html&theme=gruvbox)
 
 ## 👋 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
-➤ 3 years experiences in front-end, back-end and design web <br/>
-➤ Spearhead building new official website twice in different companies <br/>
-➤ Volunteer to held technical training programs and write documents <br/>
-➤ Excellent communication skills and logic by being a freelancer and business trip experiences <br/>
-➤ Received best website design 2nd and RWD website 2nd reward in class <br/>
+4 years of professional experience in front-end and back-end.
+<br/>
+
+Spearheaded revising the official website. Enthusiastic about the review, optimize code, write technical
+documents, and held training courses. Love writing side projects and tools. Devoting to developing projects that can benefit everyone.
 
 ## ✏ 𝗦𝗞𝗜𝗟𝗟𝗦
 **Front-End** <br/>
-➤ React.js, Redux, Axios, Hook, JavaScript, ES6, ES7, Babel, ESlint, Jest, Enzyme, react-testing-library <br/>
+➤ React.js, Redux, Axios, React Hook, JavaScript, ES6, ES7, Babel, ESlint, Jest, Enzyme, react-testing-library <br/>
 ➤ Styled Component, jQuery, HTML, CSS, Flexbox, RWD, SCSS, SASS, Bootstrap, Webpack, NPM, SPA <br/>
 
 **Back-End** <br/>
@@ -28,7 +28,7 @@
 </a>
 
 ### Interactive Resume online
-<a href="http://www.yschen25.com/portfolio/interactiveResume/" target="_blank">
+<a href="http://www.yschen25.com/interactiveResume/" target="_blank">
 <img src="https://github.com/yschen25/Interactive_Resume/blob/master/Interactive_Resume_02.gif">
 </a>
 
