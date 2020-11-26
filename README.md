@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschen25&hide=html&theme=gruvbox)
 
 ## 👋 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
-4 years of professional experience in front-end and back-end.
+3 years of professional experience in front-end and back-end.
 <br/>
 
 Spearheaded revising the official website. Enthusiastic about the review, optimize code, write technical
