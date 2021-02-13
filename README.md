@@ -2,23 +2,24 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschen25&hide=html&theme=gruvbox)
 
 ## 👋 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
-3 years of professional experience in front-end and back-end.
-<br/>
+I have more than 3 years’ experience in web development in e-commerce and the fintech industry. 
 
-Spearheaded revising the official website. Enthusiastic about the review, optimize code, write technical
-documents, and held training courses. Love writing side projects and tools. Devoting to developing projects that can benefit everyone.
+<br/>
+I am always passionate to learn new technology and contribute to the tech community by writing technical
+articles. I like working on side projects, doing online courses and reading. I care a lot for code quality,
+including code readability, maintainability, and test ability. 
 
 ## ✏ 𝗦𝗞𝗜𝗟𝗟𝗦
-**Front-End** <br/>
-➤ React.js, Redux, Axios, React Hook, JavaScript, ES6, ES7, Babel, ESlint, Jest, Enzyme, react-testing-library <br/>
-➤ Styled Component, jQuery, HTML, CSS, Flexbox, RWD, SCSS, SASS, Bootstrap, Webpack, NPM, SPA <br/>
+**Proficient** <br/>
+➤ Programming Language: HTML, CSS/SCSS, JavaScript, NodeJS, PHP, SQL, JSON <br/>
+➤ Framework/Dev Tools: Git, Github, React, Redux, React Hooks, Webpack, Babel, ESlint, Jest, Enzyme,
+SonarQube, NPM, Phalcon, Blitz, jQuery <br/>
+➤ Application/Dev Principles: Photoshop, Illustrator, Web design, UI/UX design, Agile, SPA, RWD, RESTful API
 
-**Back-End** <br/>
-➤ PHP, PHPUnit, SQL, RESTful API, Phalcon, Blitz <br/>
-
-**Others** <br/>
-➤ Git, PhpStorm, Sublime, Photoshop, Illustrator, SonarQube, Docker <br/>
-➤ Web Design, UI/UX Design, Agile 
+**Basic** <br/>
+➤ Programming Language: C#, Bash, Shell <br/>
+➤ Framework/Dev Tools: AWS, ASP.NET, MySQL, Postman <br/>
+➤ Application/Dev Principles: Docker, Figma, TDD
 
 ## 🎨 𝗪𝗘𝗕𝗦𝗜𝗧𝗘𝗦
 ### Resume online
