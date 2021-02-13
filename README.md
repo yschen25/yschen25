@@ -4,7 +4,6 @@
 ## 👋 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 I have more than 3 years’ experience in web development in e-commerce and the fintech industry. 
 
-<br/>
 I am always passionate to learn new technology and contribute to the tech community by writing technical
 articles. I like working on side projects, doing online courses and reading. I care a lot for code quality,
 including code readability, maintainability, and test ability. 
