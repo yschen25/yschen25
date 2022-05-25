@@ -1,7 +1,3 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=yschen25&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschen25&hide=html&theme=gruvbox)
-
-
 ## 🎨 𝗪𝗘𝗕𝗦𝗜𝗧𝗘𝗦
 ### Resume online
 
