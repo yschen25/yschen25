@@ -54,6 +54,7 @@ An interviewer and mentor for junior engineers. Have experiences on collaboratio
 <br/>
 
 ▪ <b>Reading</b>
+
 ▪ <b>Workout</b>
 
 <br/>
