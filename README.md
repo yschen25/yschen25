@@ -49,7 +49,8 @@ An interviewer and mentor for junior engineers. Have experiences on collaboratio
 
 ▪ <b>Writing blog - technical related articles</b> (https://yschen25.blogspot.com/)
  - Has average 5,000 views/month
- - Articles were posted on a famous international communication website 𝗖𝗿𝗼𝘀𝘀𝗶𝗻𝗴.𝗰𝘄
+ - Articles were posted on a famous international communication website 𝗖𝗿𝗼𝘀𝘀𝗶𝗻𝗴.𝗰𝘄, 𝟭𝟭𝟭𝟭 𝗝𝗼𝗯 𝗕𝗮𝗻𝗸 - 𝗧𝗲𝗰𝗵 𝗶𝘀𝗹𝗮𝗻𝗱
+
 
 <br/>
 
