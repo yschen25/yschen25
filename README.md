@@ -1,6 +1,6 @@
 ## 🧠 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-Enthusiastic software engineer with 4 years’ experiences in web development for e-commerce and fintech industry.
+Enthusiastic software engineer with 4 years’ experiences in web development.
 
 An interviewer and mentor for junior engineers. Have experiences on collaboration with people from various countries including Dominica government while working for an international company.
 
