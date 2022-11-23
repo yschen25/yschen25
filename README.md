@@ -4,6 +4,9 @@ Enthusiastic software engineer with 4 years’ experiences in web development fo
 
 An interviewer and mentor for junior engineers. Have experiences on collaboration with people from various countries including Dominica government while working for an international company.
 
+I was doing my side projects - sell paintings online and writing articles to share technical and working
+experiences during the gaps between employments.
+
 <br/>
 
 ## ✏ 𝗦𝗞𝗜𝗟𝗟𝗦
