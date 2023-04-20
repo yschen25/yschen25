@@ -72,10 +72,3 @@
 ▪ <b>Reading</b>
 
 ▪ <b>Workout</b>
-
-<br/>
-
-## ✉ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘
-
-• yschen25@gmail.com <br/>
-• [LinkedIn](https://www.linkedin.com/in/yschen25)
