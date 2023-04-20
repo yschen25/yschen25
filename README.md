@@ -1,11 +1,12 @@
 ## 🧠 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-Enthusiastic software engineer with 4 years’ experiences in web development.
+- An <b>enthusiastic</b> software engineer with four years of experience in web development.
 
-An interviewer and mentor for junior engineers. Have experiences on collaboration with people from various countries including Dominica government while working for an international company.
+- An <b>interviewer and mentor</b> for junior engineers. Helped an engineer get a job in the UK.
 
-I was doing my side projects - sell paintings online and writing articles to share technical and working
-experiences during the gaps between employments.
+- Good at <b>collabirating</b> with people/org with different backgrounds including the Dominica government.
+
+- Having several side projects including selling my own artwork online and writing articles about technical and working experiences.
 
 <br/>
 
@@ -54,16 +55,17 @@ experiences during the gaps between employments.
  - Has average 5,000 views/month
  - Articles were posted on a famous international communication website 𝗖𝗿𝗼𝘀𝘀𝗶𝗻𝗴.𝗰𝘄, 𝟭𝟭𝟭𝟭 𝗝𝗼𝗯 𝗕𝗮𝗻𝗸 - 𝗧𝗲𝗰𝗵 𝗶𝘀𝗹𝗮𝗻𝗱
 
-1111 人力銀行 - 科技島 : [國外找工作：收到 Meta (Facebook)、Amazon、Booking.com, Cisco, Yelp 等公司邀約的履歷 & 履歷網站, Resume, Web Resume, Github, LinkedIn 怎麼寫](https://www.technice.com.tw/experience/19370/)
+<ul>
+ 
+- 1111 人力銀行 - 科技島 : [國外找工作：收到 Meta (Facebook)、Amazon、Booking.com, Cisco, Yelp 等公司邀約的履歷 & 履歷網站, Resume, Web Resume, Github, LinkedIn 怎麼寫](https://www.technice.com.tw/experience/19370/)
 
-換日線 : [技術審查通過、也聊得很開心，為什麼工程師面試海外職缺還是會敗在「最後這關」?](https://crossing.cw.com.tw/article/15187)
+- 換日線 : [技術審查通過、也聊得很開心，為什麼工程師面試海外職缺還是會敗在「最後這關」?](https://crossing.cw.com.tw/article/15187)
 
-麥可故事貿易公司 : 
+- 麥可故事貿易公司 : [非本科系畢業又常有轉職空窗期怎麼辦？我如何從在英國面試不斷被拒絕，到最後錄取上喜歡的工作](https://mikestorycompany.com/uk-interview-skills/)
 
-[非本科系畢業又常有轉職空窗期怎麼辦？我如何從在英國面試不斷被拒絕，到最後錄取上喜歡的工作](https://mikestorycompany.com/uk-interview-skills/)
+- 麥可故事貿易公司 : [你想大大增加在國外面試錄取的機會嗎？那你一定要懂台灣公司不愛問，但是國外求職卻很注重的 Behavioural questions](https://mikestorycompany.com/behavioural-questions-interview/)
 
-[你想大大增加在國外面試錄取的機會嗎？那你一定要懂台灣公司不愛問，但是國外求職卻很注重的 Behavioural questions](https://mikestorycompany.com/behavioural-questions-interview/)
-
+</ul>
 
 <br/>
 
