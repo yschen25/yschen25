@@ -16,7 +16,7 @@
 
 ▪ <b>Framework</b>: React, Redux, React Hooks
 
-▪ <b>Dev Principles</b>: RESTful API, TDD, Agile, SPA
+▪ <b>Paradigms</b>: RESTful API, TDD, Agile, SPA
 
 ▪ <b>Dev Tools</b>: Docker, AWS, Babel, Jest, Enzyme, NPM, Git, Webpack, MySQL
 
@@ -53,7 +53,7 @@
 
 ▪ <b>Writing blog - technical related articles</b> (https://yschen25.blogspot.com/)
  - Has average 5,000 views/month
- - Articles were posted on a famous international websites 𝗧𝗼𝗽𝘁𝗮𝗹, 𝗖𝗿𝗼𝘀𝘀𝗶𝗻𝗴.𝗰𝘄, 𝟭𝟭𝟭𝟭 𝗷𝗼𝗯 𝗵𝘂𝗻𝘁𝗶𝗻𝗴 𝘄𝗲𝗯𝘀𝗶𝘁𝗲
+ - Articles were posted on a famous international websites <b>Topal, Crossing.cw, 1111 job-hunting website</b>
 
 <ul>
  
