@@ -53,7 +53,7 @@
 
 ▪ <b>Writing technical and interviewing related articles blog: [工程師英國找工作紀錄 :: 抓住那個工程師](https://yschen25.blogspot.com/)</b>
  - Has average 5,000 views/month
- - Articles were posted on a famous international websites <b>Topal, Crossing.cw, 1111 job-hunting website, etc.</b>
+ - Articles were posted on a famous international websites <b>Topal, Crossing.cw and 1111 job-hunting website, etc.</b>
 
 <ul>
  
