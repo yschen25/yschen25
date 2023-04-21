@@ -46,12 +46,12 @@
 📚 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗦
 
 ▪ <b>Drawing</b>
- - Sell the paintings on Etsy (https://www.etsy.com/shop/TrustMeIAmAnEngineer)
- - Sell the stickers on Line creators markets (https://store.line.me/stickershop/author/672687/en)
+ - Sell the paintings on Etsy: [Trust Me I Am An Engineer](https://www.etsy.com/shop/TrustMeIAmAnEngineer)
+ - Sell the stickers on: [Line creators markets](https://store.line.me/stickershop/author/672687/en)
 
 <br/>
 
-▪ <b>Writing blog - technical related articles</b> (https://yschen25.blogspot.com/)
+▪ <b>Writing technical and interviewing related articles blog: [工程師英國找工作紀錄 :: 抓住那個工程師](https://yschen25.blogspot.com/)</b>
  - Has average 5,000 views/month
  - Articles were posted on a famous international websites <b>Topal, Crossing.cw, 1111 job-hunting website, etc.</b>
 
