@@ -53,7 +53,7 @@
 
 ▪ <b>Writing blog - technical related articles</b> (https://yschen25.blogspot.com/)
  - Has average 5,000 views/month
- - Articles were posted on a famous international communication website 𝗖𝗿𝗼𝘀𝘀𝗶𝗻𝗴.𝗰𝘄, 𝟭𝟭𝟭𝟭 𝗷𝗼𝗯 𝗵𝘂𝗻𝘁𝗶𝗻𝗴 𝘄𝗲𝗯𝘀𝗶𝘁𝗲
+ - Articles were posted on a famous international websites 𝗧𝗼𝗽𝘁𝗮𝗹, 𝗖𝗿𝗼𝘀𝘀𝗶𝗻𝗴.𝗰𝘄, 𝟭𝟭𝟭𝟭 𝗷𝗼𝗯 𝗵𝘂𝗻𝘁𝗶𝗻𝗴 𝘄𝗲𝗯𝘀𝗶𝘁𝗲
 
 <ul>
  
