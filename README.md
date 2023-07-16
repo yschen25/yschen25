@@ -4,7 +4,7 @@
 
 - An <b>interviewer and mentor</b> for junior engineers. Helped an engineer get a job in the UK.
 
-- Good at <b>collabirating</b> with people/org with different backgrounds including the Dominica government.
+- Good at <b>collaborating</b> with people/org with different backgrounds including the Dominica government.
 
 - Having several side projects including selling my own artwork online and writing articles about technical and working experiences.
 
@@ -25,7 +25,7 @@
 ## 🎨 𝗪𝗘𝗕𝗦𝗜𝗧𝗘𝗦
 
 ### Interactive Resume
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=R0uufIdWCD4">
+<a href="https://youtu.be/iKtZwhi1SKE">
 <img src="./img/interactive_resume_thumbnail.jpg" width="80%">
 </a>
 
