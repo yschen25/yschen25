@@ -25,8 +25,8 @@
 ## 🎨 𝗪𝗘𝗕𝗦𝗜𝗧𝗘𝗦
 
 ### Interactive Resume
-<a href="https://www.yschen25.com/interactiveResume/" target="_blank">
-<img src="https://github.com/yschen25/Interactive_Resume/blob/master/Interactive_Resume_Gif.gif">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=R0uufIdWCD4">
+<img src="./img/interactive_resume_thumbnail.jpg">
 </a>
 
 ### Wishing Pool
