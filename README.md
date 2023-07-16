@@ -29,14 +29,12 @@
 <img src="./img/interactive_resume_thumbnail.jpg" width="80%">
 </a>
 
-<br/><br/>
 
 ### Wishing Pool
 <a href="https://www.yschen25.com/portfolio/wishingPool/" target="_blank">
 <img src="https://camo.githubusercontent.com/244c2060afc800a65c4d21ef9fe5c14f7b8b8d9f/68747470733a2f2f692e696d6775722e636f6d2f49305161554d442e676966" width="80%">
 </a>
 
-<br/><br/>
 
 ### More Portfolios
 <a href="https://www.yschen25.com/" target="_blank">
@@ -47,17 +45,17 @@
 <br/>
 <br/>
 
-📚 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗦
+## 📚 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗦
 
 ▪ <b>Drawing</b>
  - Sell the paintings on Etsy: [Trust Me I Am An Engineer](https://www.etsy.com/shop/TrustMeIAmAnEngineer)
- - Sell the stickers on: [Line creators markets](https://store.line.me/stickershop/author/672687/en)
+ - Sell the stickers on [Line creators markets](https://store.line.me/stickershop/author/672687/en)
 
 <br/>
 
 ▪ <b>Writing technical and interviewing related articles blog: [工程師英國找工作紀錄 :: 抓住那個工程師](https://yschen25.blogspot.com/)</b>
- - Has average 5,000 views/month
- - Articles were posted on a famous international websites <b>Topal, Crossing.cw and 1111 job-hunting website, etc.</b>
+ - Has an average 5,000 views/month
+ - Articles were posted on famous international websites <b>Topal, Crossing.cw and 1111 job-hunting website, etc.</b>
 
 <ul>
  
