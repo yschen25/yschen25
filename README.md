@@ -12,7 +12,7 @@
 
 ## ✏ 𝗦𝗞𝗜𝗟𝗟𝗦
 
-▪ <b>Programming Languages</b>: JavaScript, TypeScript, NodeJS, PHP, SQL, CSS, SCSS, SASS
+▪ <b>Programming Languages</b>: JavaScript, TypeScript, NodeJS, PHP, Python, SQL, CSS, SCSS, SASS
 
 ▪ <b>Framework</b>: React, Redux, React Hooks
 
@@ -26,13 +26,17 @@
 
 ### Interactive Resume
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=R0uufIdWCD4">
-<img src="./img/interactive_resume_thumbnail.jpg">
+<img src="./img/interactive_resume_thumbnail.jpg" width="80%">
 </a>
+
+<br/><br/>
 
 ### Wishing Pool
 <a href="https://www.yschen25.com/portfolio/wishingPool/" target="_blank">
-<img src="https://camo.githubusercontent.com/244c2060afc800a65c4d21ef9fe5c14f7b8b8d9f/68747470733a2f2f692e696d6775722e636f6d2f49305161554d442e676966">
+<img src="https://camo.githubusercontent.com/244c2060afc800a65c4d21ef9fe5c14f7b8b8d9f/68747470733a2f2f692e696d6775722e636f6d2f49305161554d442e676966" width="80%">
 </a>
+
+<br/><br/>
 
 ### More Portfolios
 <a href="https://www.yschen25.com/" target="_blank">
