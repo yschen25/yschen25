@@ -1,6 +1,6 @@
 ## 🧠 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
 
-- An <b>enthusiastic</b> software engineer with four years of experience in web development.
+- An <b>enthusiastic</b> software engineer with 6 years of experience in web development.
 
 - An <b>interviewer and mentor</b> for junior engineers. Helped an engineer get a job in the UK.
 
