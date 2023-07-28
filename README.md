@@ -12,13 +12,13 @@
 
 ## ✏ 𝗦𝗞𝗜𝗟𝗟𝗦
 
-▪ <b>Programming Languages</b>: JavaScript, TypeScript, NodeJS, PHP, Python, SQL, CSS, SCSS, SASS
+▪ <b>Programming Languages</b>: JavaScript, TypeScript, Node.js, PHP, Python, SQL, CSS, SCSS, SASS
 
-▪ <b>Framework</b>: React, Redux, React Hooks
+▪ <b>Frameworks</b>: React, Redux, React Hooks
 
-▪ <b>Paradigms</b>: RESTful API, TDD, Agile, SPA
+▪ <b>Development Principles</b>: RESTful API, TDD, Agile, SPA
 
-▪ <b>Dev Tools</b>: Docker, AWS, Babel, Jest, Enzyme, NPM, Git, Webpack, MySQL
+▪ <b>Development Tools</b>: Docker, AWS, Babel, Jest, Enzyme, NPM, Git, Webpack, MySQL
 
 <br/>
 
