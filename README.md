@@ -32,13 +32,13 @@
 
 ### Wishing Pool
 <a href="https://www.yschen25.com/portfolio/wishingPool/" target="_blank">
-<img src="https://camo.githubusercontent.com/244c2060afc800a65c4d21ef9fe5c14f7b8b8d9f/68747470733a2f2f692e696d6775722e636f6d2f49305161554d442e676966" width="80%">
+<img src="https://i.imgur.com/I0QaUMD.gif" width="80%">
 </a>
 
 
 ### More Portfolios
 <a href="https://www.yschen25.com/" target="_blank">
-<img src="https://github.com/yschen25/Resume/blob/master/img/Resume.gif">
+<img src="https://raw.githubusercontent.com/yschen25/Resume/master/img/Resume.gif">
 </a>
 
 <br/>
